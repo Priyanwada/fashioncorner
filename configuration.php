@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = 'localhost';
-	public $user = 'root';
-	public $password = '';
-	public $db = 'joomla';
+	public $host = 'us-cdbr-azure-southcentral-f.cloudapp.net';
+	public $user = 'bc7247c8615d3e';
+	public $password = 'c5954a17';
+	public $db = 'priya';
 	public $dbprefix = 'hfu65_';
 	public $live_site = '';
 	public $secret = 'ffOY2pCaWZ03LueT';
